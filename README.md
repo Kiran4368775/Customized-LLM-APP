@@ -27,8 +27,7 @@ Before you start, make sure you have the following:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Kiran4368775/the-real-estate-agent.git
-   cd the-real-estate-agent
+   git clone https://github.com/Kiran4368775/Customized-LLM-APP.git
    ```
 
 2. Install the required packages:
